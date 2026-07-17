@@ -1,17 +1,17 @@
 {
-  "version": "0.8.0",
-  "build": "20260717-1119",
-  "displayVersion": "0.8.0 (20260717-1119)",
+  "version": "0.8.1",
+  "build": "20260718-0628",
+  "displayVersion": "0.8.1 (20260718-0628)",
   "buildTimeZone": "Asia/Shanghai",
-  "releaseDate": "2026-07-17",
-  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.0/APKGuardian-Windows-x64.zip",
-  "sha256": "ee72002a27341953d818eeb698ff09140195ac890732e0dfec6268661f325d55",
+  "releaseDate": "2026-07-18",
+  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.1/APKGuardian-Windows-x64.zip",
+  "sha256": "915f7578d73e7dccac5ead17b73d1f1aedaf9b3dfe9be2e69b13aa0769baf63d",
   "required": false,
   "minSupportedVersion": "0.8.0",
   "minSupportedBuild": "20260717-1119",
   "changelog": [
-    "插件 2 相册备份运行时与 album-host 独立测试包",
-    "插件 3 授权短信备份占位（GUI 可见、不可注入）",
-    "GUI 紧凑布局；启动后可检查 GitHub 更新"
+    "插件2相册备份: 正式打包默认合并进宿主已有DEX, 修复微信等大包Provider不加载(P-008)",
+    "同意引导延迟与兜底强化; 小米真机微信端到端验收通过(同意-权限-云备份)",
+    "默认云端地址固化; 桌面更新通道指向公开Releases清单"
   ]
 }
