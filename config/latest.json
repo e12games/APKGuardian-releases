@@ -1,18 +1,18 @@
 {
-  "version": "0.8.6",
-  "build": "20260718-1821",
-  "displayVersion": "0.8.6 (20260718-1821)",
+  "version": "0.8.7",
+  "build": "20260718-2353",
+  "displayVersion": "0.8.7 (20260718-2353)",
   "buildTimeZone": "Asia/Shanghai",
   "releaseDate": "2026-07-18",
-  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.6/APKGuardian-Windows-x64.zip",
-  "sha256": "8cf48a0383304d6f489daccab8d3b17204dc264d74e900733c1bd9a1bcf4b320",
-  "sizeBytes": 157161623,
+  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.7/APKGuardian-Windows-x64.zip",
+  "sha256": "e1dc2992ba8c8142a5e7e05d9170beef47ebf0c1abc0ac8121b3a8a81b891aa4",
+  "sizeBytes": 157164471,
   "required": false,
-  "minSupportedVersion": "0.8.6",
-  "minSupportedBuild": "20260718-1821",
+  "minSupportedVersion": "0.8.7",
+  "minSupportedBuild": "20260718-2353",
   "changelog": [
+    "套餐C·实屏：微信等大包默认合并进已有 DEX（P-010，修复 InitProvider 不加载）",
     "修复应用内更新：正确跟随 GitHub 下载 302 跳转",
-    "插件2文案：授权相册备份（可用）",
-    "应用内整包更新：进度条 + 动态剩余时间"
+    "插件2文案：授权相册备份（可用）"
   ]
 }
