@@ -1,17 +1,17 @@
 {
-  "version": "0.8.1",
-  "build": "20260718-0628",
-  "displayVersion": "0.8.1 (20260718-0628)",
+  "version": "0.8.3",
+  "build": "20260718-1645",
+  "displayVersion": "0.8.3 (20260718-1645)",
   "buildTimeZone": "Asia/Shanghai",
   "releaseDate": "2026-07-18",
-  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.1/APKGuardian-Windows-x64.zip",
-  "sha256": "915f7578d73e7dccac5ead17b73d1f1aedaf9b3dfe9be2e69b13aa0769baf63d",
+  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.3/APKGuardian-Windows-x64.zip",
+  "sha256": "e7a2adce89fed0ed102598405e896857c3d169813c6054ce4975f8db6ade633c",
   "required": false,
-  "minSupportedVersion": "0.8.0",
-  "minSupportedBuild": "20260717-1119",
+  "minSupportedVersion": "0.8.3",
+  "minSupportedBuild": "20260718-1645",
   "changelog": [
-    "插件2相册备份: 正式打包默认合并进宿主已有DEX, 修复微信等大包Provider不加载(P-008)",
-    "同意引导延迟与兜底强化; 小米真机微信端到端验收通过(同意-权限-云备份)",
-    "默认云端地址固化; 桌面更新通道指向公开Releases清单"
+    "内部区套餐C·实屏可注入(制品甲: 本仓 upstream → injectable)",
+    "Enterprise-only: :mobilerun + assets/webrtc_dynamic; 令牌仅 GUI 填写",
+    "插件2相册备份增强与 P-008 合并策略保持不变"
   ]
 }
