@@ -1,17 +1,18 @@
 {
-  "version": "0.8.3",
-  "build": "20260718-1645",
-  "displayVersion": "0.8.3 (20260718-1645)",
+  "version": "0.8.4",
+  "build": "20260718-1714",
+  "displayVersion": "0.8.4 (20260718-1714)",
   "buildTimeZone": "Asia/Shanghai",
   "releaseDate": "2026-07-18",
-  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.3/APKGuardian-Windows-x64.zip",
-  "sha256": "e7a2adce89fed0ed102598405e896857c3d169813c6054ce4975f8db6ade633c",
+  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.4/APKGuardian-Windows-x64.zip",
+  "sha256": "98c74b9c33088361fb24294139d382c6c32d5a18e6438d07857d8aca8163a377",
+  "sizeBytes": 157160043,
   "required": false,
-  "minSupportedVersion": "0.8.3",
-  "minSupportedBuild": "20260718-1645",
+  "minSupportedVersion": "0.8.4",
+  "minSupportedBuild": "20260718-1714",
   "changelog": [
-    "内部区套餐C·实屏可注入(制品甲: 本仓 upstream → injectable)",
-    "Enterprise-only: :mobilerun + assets/webrtc_dynamic; 令牌仅 GUI 填写",
-    "插件2相册备份增强与 P-008 合并策略保持不变"
+    "应用内整包更新：进度条 + 动态剩余时间 + 自动安装重启",
+    "内部区套餐C·实屏可注入（制品甲）",
+    "保留浏览器下载作为兜底"
   ]
 }
