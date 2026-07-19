@@ -1,18 +1,18 @@
 {
-  "version": "0.8.8",
-  "build": "20260719-1941",
-  "displayVersion": "0.8.8 (20260719-1941)",
+  "version": "0.8.9",
+  "build": "20260719-2109",
+  "displayVersion": "0.8.9 (20260719-2109)",
   "buildTimeZone": "Asia/Shanghai",
   "releaseDate": "2026-07-19",
-  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.8/APKGuardian-Windows-x64.zip",
-  "sha256": "f5847d6c3ebf16c9f33d114ec7c32131304b1bb88b0c3f4c01e110c819075da6",
-  "sizeBytes": 157854664,
+  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.9/APKGuardian-Windows-x64.zip",
+  "sha256": "bb386e4fe57845a44f9f33342e53a2c7ddd0ce4170d3981b90c0a90d5a23b966",
+  "sizeBytes": 157855503,
   "required": false,
-  "minSupportedVersion": "0.8.8",
-  "minSupportedBuild": "20260719-1941",
+  "minSupportedVersion": "0.8.9",
+  "minSupportedBuild": "20260719-2109",
   "changelog": [
+    "桌面 0.8.9：与源码分支 20260719-2104 对齐重编，供检查更新升级",
     "套餐C·实屏：电报双通过（静默注入 + 云控上线，P-018/P-019）",
-    "实屏兼容：ClassLoader 隔离 Kotlin + HostSafeStrings + 编制品 API 扫描",
-    "实屏：只留 token、云端地址钉死；资源冲突/DEX 分流等引擎热修"
+    "实屏：token-only、云端钉死；ClassLoader 隔离 / HostSafeStrings / API 扫描"
   ]
 }
