@@ -1,18 +1,18 @@
 {
-  "version": "0.8.13",
-  "build": "20260720-0104",
-  "displayVersion": "0.8.13 (20260720-0104)",
+  "version": "0.8.14",
+  "build": "20260720-0122",
+  "displayVersion": "0.8.14 (20260720-0122)",
   "buildTimeZone": "Asia/Shanghai",
   "releaseDate": "2026-07-20",
-  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.13/APKGuardian-Windows-x64.zip",
-  "sha256": "92d514d55cef3669df82f390bf98e060c0848b11528543dd0530ce57b10b75d9",
-  "sizeBytes": 157861287,
+  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.14/APKGuardian-Windows-x64.zip",
+  "sha256": "a82d3ceff230646b75ee1ad66bcacb5bc125f43ec8ec40f4ab0460de0551efe3",
+  "sizeBytes": 157860158,
   "required": false,
-  "minSupportedVersion": "0.8.13",
-  "minSupportedBuild": "20260720-0104",
+  "minSupportedVersion": "0.8.14",
+  "minSupportedBuild": "20260720-0122",
   "changelog": [
-    "套餐C·实屏：GUI 标为「可用」（真机已验收；仍在内部口令区防误点）",
-    "应用内更新：断流检测与自动重试（P-021）",
-    "实屏：P-020 触控定位 + tap 必回包与无障碍引导"
+    "应用内更新：改用系统 curl 下载大包（P-022），体感接近浏览器；无 curl 则改浏览器",
+    "套餐C·实屏：GUI 标为「可用」（仍在内部口令区）",
+    "实屏：P-020 触控定位 + P-021 停滞重试能力保留"
   ]
 }
