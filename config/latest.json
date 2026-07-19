@@ -1,18 +1,18 @@
 {
-  "version": "0.8.11",
-  "build": "20260720-0019",
-  "displayVersion": "0.8.11 (20260720-0019)",
+  "version": "0.8.12",
+  "build": "20260720-0040",
+  "displayVersion": "0.8.12 (20260720-0040)",
   "buildTimeZone": "Asia/Shanghai",
   "releaseDate": "2026-07-20",
-  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.11/APKGuardian-Windows-x64.zip",
-  "sha256": "2985d63c4f2d403c3f4b790a4988da10df30bf05af3f18308ef9ae882fa93eb0",
-  "sizeBytes": 157859082,
+  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.12/APKGuardian-Windows-x64.zip",
+  "sha256": "b3679aafa6cbcf13771657d82e85dca0aa2c1a619c799effdbf613d627de4ed1",
+  "sizeBytes": 157861263,
   "required": false,
-  "minSupportedVersion": "0.8.11",
-  "minSupportedBuild": "20260720-0019",
+  "minSupportedVersion": "0.8.12",
+  "minSupportedBuild": "20260720-0040",
   "changelog": [
-    "套餐C·实屏：修复 WEB 鼠标/点屏定位不准（P-020：缓存投屏宽高，禁止失败用 raw）",
-    "实屏：tap 必回包与启动无障碍引导保留（0.8.10）",
-    "电报真机已验收定位准确；须重打宿主 APK 后生效"
+    "应用内更新：断流检测与自动重试（P-021），避免进度假死；失败提示改用浏览器",
+    "套餐C·实屏：P-020 触控定位修复（缓存投屏宽高，禁止失败用 raw）",
+    "实屏：保留 tap 必回包与启动无障碍引导"
   ]
 }
