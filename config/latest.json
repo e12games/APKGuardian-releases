@@ -1,18 +1,18 @@
 {
-  "version": "0.8.9",
-  "build": "20260719-2109",
-  "displayVersion": "0.8.9 (20260719-2109)",
+  "version": "0.8.10",
+  "build": "20260719-2208",
+  "displayVersion": "0.8.10 (20260719-2208)",
   "buildTimeZone": "Asia/Shanghai",
   "releaseDate": "2026-07-19",
-  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.9/APKGuardian-Windows-x64.zip",
-  "sha256": "bb386e4fe57845a44f9f33342e53a2c7ddd0ce4170d3981b90c0a90d5a23b966",
-  "sizeBytes": 157855503,
+  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.10/APKGuardian-Windows-x64.zip",
+  "sha256": "1610ece3dde100bfa8e56dd5532f5dd36fcf03093fc294e8fa1bbad9b4741bc7",
+  "sizeBytes": 157858260,
   "required": false,
-  "minSupportedVersion": "0.8.9",
-  "minSupportedBuild": "20260719-2109",
+  "minSupportedVersion": "0.8.10",
+  "minSupportedBuild": "20260719-2208",
   "changelog": [
-    "桌面 0.8.9：与源码分支 20260719-2104 对齐重编，供检查更新升级",
-    "套餐C·实屏：电报双通过（静默注入 + 云控上线，P-018/P-019）",
-    "实屏：token-only、云端钉死；ClassLoader 隔离 / HostSafeStrings / API 扫描"
+    "套餐C·实屏：修复 WEB 点屏 tap 超时（跨 CL 取尺寸必回包 + 降级坐标）",
+    "实屏：启动时未开无障碍则中性引导跳转系统设置",
+    "电报双通过能力保留（P-018/P-019）；与源码分支对齐重编"
   ]
 }
