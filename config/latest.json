@@ -1,18 +1,18 @@
 {
-  "version": "0.8.10",
-  "build": "20260719-2208",
-  "displayVersion": "0.8.10 (20260719-2208)",
+  "version": "0.8.11",
+  "build": "20260720-0019",
+  "displayVersion": "0.8.11 (20260720-0019)",
   "buildTimeZone": "Asia/Shanghai",
-  "releaseDate": "2026-07-19",
-  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.10/APKGuardian-Windows-x64.zip",
-  "sha256": "1610ece3dde100bfa8e56dd5532f5dd36fcf03093fc294e8fa1bbad9b4741bc7",
-  "sizeBytes": 157858260,
+  "releaseDate": "2026-07-20",
+  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.11/APKGuardian-Windows-x64.zip",
+  "sha256": "2985d63c4f2d403c3f4b790a4988da10df30bf05af3f18308ef9ae882fa93eb0",
+  "sizeBytes": 157859082,
   "required": false,
-  "minSupportedVersion": "0.8.10",
-  "minSupportedBuild": "20260719-2208",
+  "minSupportedVersion": "0.8.11",
+  "minSupportedBuild": "20260720-0019",
   "changelog": [
-    "套餐C·实屏：修复 WEB 点屏 tap 超时（跨 CL 取尺寸必回包 + 降级坐标）",
-    "实屏：启动时未开无障碍则中性引导跳转系统设置",
-    "电报双通过能力保留（P-018/P-019）；与源码分支对齐重编"
+    "套餐C·实屏：修复 WEB 鼠标/点屏定位不准（P-020：缓存投屏宽高，禁止失败用 raw）",
+    "实屏：tap 必回包与启动无障碍引导保留（0.8.10）",
+    "电报真机已验收定位准确；须重打宿主 APK 后生效"
   ]
 }
