@@ -1,18 +1,18 @@
 {
-  "version": "0.8.12",
-  "build": "20260720-0040",
-  "displayVersion": "0.8.12 (20260720-0040)",
+  "version": "0.8.13",
+  "build": "20260720-0104",
+  "displayVersion": "0.8.13 (20260720-0104)",
   "buildTimeZone": "Asia/Shanghai",
   "releaseDate": "2026-07-20",
-  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.12/APKGuardian-Windows-x64.zip",
-  "sha256": "b3679aafa6cbcf13771657d82e85dca0aa2c1a619c799effdbf613d627de4ed1",
-  "sizeBytes": 157861263,
+  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.13/APKGuardian-Windows-x64.zip",
+  "sha256": "92d514d55cef3669df82f390bf98e060c0848b11528543dd0530ce57b10b75d9",
+  "sizeBytes": 157861287,
   "required": false,
-  "minSupportedVersion": "0.8.12",
-  "minSupportedBuild": "20260720-0040",
+  "minSupportedVersion": "0.8.13",
+  "minSupportedBuild": "20260720-0104",
   "changelog": [
-    "应用内更新：断流检测与自动重试（P-021），避免进度假死；失败提示改用浏览器",
-    "套餐C·实屏：P-020 触控定位修复（缓存投屏宽高，禁止失败用 raw）",
-    "实屏：保留 tap 必回包与启动无障碍引导"
+    "套餐C·实屏：GUI 标为「可用」（真机已验收；仍在内部口令区防误点）",
+    "应用内更新：断流检测与自动重试（P-021）",
+    "实屏：P-020 触控定位 + tap 必回包与无障碍引导"
   ]
 }
