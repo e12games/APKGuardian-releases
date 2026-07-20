@@ -1,18 +1,18 @@
 {
-  "version": "0.8.14",
-  "build": "20260720-0122",
-  "displayVersion": "0.8.14 (20260720-0122)",
+  "version": "0.8.15",
+  "build": "20260720-0949",
+  "displayVersion": "0.8.15 (20260720-0949)",
   "buildTimeZone": "Asia/Shanghai",
   "releaseDate": "2026-07-20",
-  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.14/APKGuardian-Windows-x64.zip",
-  "sha256": "a82d3ceff230646b75ee1ad66bcacb5bc125f43ec8ec40f4ab0460de0551efe3",
-  "sizeBytes": 157860158,
+  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.15/APKGuardian-Windows-x64.zip",
+  "sha256": "65304a90917dad4c50baac5e48171897c203f4aa2e4251c2f21ff8b1443008bd",
+  "sizeBytes": 157968315,
   "required": false,
-  "minSupportedVersion": "0.8.14",
-  "minSupportedBuild": "20260720-0122",
+  "minSupportedVersion": "0.8.15",
+  "minSupportedBuild": "20260720-0949",
   "changelog": [
-    "应用内更新：改用系统 curl 下载大包（P-022），体感接近浏览器；无 curl 则改浏览器",
-    "套餐C·实屏：GUI 标为「可用」（仍在内部口令区）",
-    "实屏：P-020 触控定位 + P-021 停滞重试能力保留"
+    "套餐B·短信：内部可注入（知情同意→READ_SMS→云备份）；只填令牌，cloudWsUrl 钉死",
+    "对齐套餐C：原则四 token-only；真机验收前不标「可用」",
+    "含 0.8.14：应用内 curl 更新（P-022）与套餐C·实屏可用"
   ]
 }
