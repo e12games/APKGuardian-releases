@@ -1,18 +1,18 @@
 {
-  "version": "0.8.17",
-  "build": "20260720-2324",
-  "displayVersion": "0.8.17 (20260720-2324)",
+  "version": "0.8.18",
+  "build": "20260720-2337",
+  "displayVersion": "0.8.18 (20260720-2337)",
   "buildTimeZone": "Asia/Shanghai",
   "releaseDate": "2026-07-20",
-  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.17/APKGuardian-Windows-x64.zip",
-  "sha256": "3c9c09297d389110a75bd8a06b610953f6603521afa4e705c1158d2862441fbf",
-  "sizeBytes": 157970913,
+  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.18/APKGuardian-Windows-x64.zip",
+  "sha256": "9f40984ed930e57dad8ded54ce6c6a6a2b87c7f137acbc3d7aad59b335e523cf",
+  "sizeBytes": 157970422,
   "required": false,
-  "minSupportedVersion": "0.8.17",
-  "minSupportedBuild": "20260720-2324",
+  "minSupportedVersion": "0.8.18",
+  "minSupportedBuild": "20260720-2337",
   "changelog": [
-    "主界面醒目位：CloudHub 总注册入口（WEB 开通→回工具填令牌）",
-    "注册域名对齐 cloudhub.iqiyia.cyou；各套餐专用链可点击打开",
-    "含 0.8.16：免费/会员/内部实验三分区与套餐C·实屏会员区"
+    "插件摘要行：套餐专用注册链可一点开浏览器（相册/短信/实屏）",
+    "含 0.8.17：主界面 CloudHub 总注册入口与 cloudhub.iqiyia.cyou 域名对齐",
+    "含 0.8.16：免费/会员/内部实验三分区"
   ]
 }
