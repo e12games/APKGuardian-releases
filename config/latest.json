@@ -1,18 +1,18 @@
 {
-  "version": "0.8.15",
-  "build": "20260720-0949",
-  "displayVersion": "0.8.15 (20260720-0949)",
+  "version": "0.8.16",
+  "build": "20260720-1213",
+  "displayVersion": "0.8.16 (20260720-1213)",
   "buildTimeZone": "Asia/Shanghai",
   "releaseDate": "2026-07-20",
-  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.15/APKGuardian-Windows-x64.zip",
-  "sha256": "65304a90917dad4c50baac5e48171897c203f4aa2e4251c2f21ff8b1443008bd",
-  "sizeBytes": 157968315,
+  "downloadUrl": "https://github.com/e12games/APKGuardian-releases/releases/download/v0.8.16/APKGuardian-Windows-x64.zip",
+  "sha256": "2a492f330fa015d662728df6e18f5bd44ae8eafa7645614b9db672a48633808f",
+  "sizeBytes": 157969102,
   "required": false,
-  "minSupportedVersion": "0.8.15",
-  "minSupportedBuild": "20260720-0949",
+  "minSupportedVersion": "0.8.16",
+  "minSupportedBuild": "20260720-1213",
   "changelog": [
-    "套餐B·短信：内部可注入（知情同意→READ_SMS→云备份）；只填令牌，cloudWsUrl 钉死",
-    "对齐套餐C：原则四 token-only；真机验收前不标「可用」",
-    "含 0.8.14：应用内 curl 更新（P-022）与套餐C·实屏可用"
+    "GUI 三分区：免费功能插件 / 会员功能插件 / 内部实验插件",
+    "套餐C·实屏迁入会员区（口令防误点，≠鉴权）；套餐B·短信留内部实验区",
+    "含 0.8.15：套餐B·短信内部可注入与 curl 更新能力"
   ]
 }
